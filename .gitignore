@@ -31,6 +31,7 @@ build/
 Thumbs.db
 
 # ML specific (important)
+Artifacts/
 artifacts/
 models/
 *.h5
