@@ -9,6 +9,7 @@ pyaml
 dagshub
 fastapi
 uvicorn
+dill
 python-multipart
 
 # -e .
